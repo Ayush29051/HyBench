@@ -1,1 +1,1 @@
-# HyBench-A-Benchmarking-Framework-for-Hybrid-Relational-Vector-Database-Systems-Experiments-Analysis-
+# HyBench
